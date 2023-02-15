@@ -1,0 +1,12 @@
+.turtle-card {
+  width: 20vw;
+  margin: 30px;
+  border: 2px solid black;
+  padding: 5px;
+  background-color: lightyellow;
+  border-radius: 10px;
+}
+
+.turtle-card img {
+  width: 100%;
+}
