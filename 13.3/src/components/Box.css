@@ -1,0 +1,18 @@
+.box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  transition: border-radius 0.5s;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.circle {
+  border-radius: 50%;
+}
