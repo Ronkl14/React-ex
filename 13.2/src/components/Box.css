@@ -1,0 +1,31 @@
+.box1 {
+  height: 50px;
+  width: 50px;
+}
+
+.box2 {
+  height: 250px;
+  width: 250px;
+}
+
+.box3 {
+  height: 175px;
+  width: 175px;
+}
+
+.box {
+  border: 1px black solid;
+  background-color: aquamarine;
+  position: relative;
+  animation-name: move;
+  animation-duration: 2s;
+}
+
+@keyframes move {
+  from {
+    left: -100px;
+  }
+  to {
+    left: 0;
+  }
+}
