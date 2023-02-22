@@ -1,0 +1,7 @@
+.task {
+  display: flex;
+}
+
+.done {
+  color: gray;
+}
